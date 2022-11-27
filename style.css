@@ -1,0 +1,178 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/bep.jpeg) no-repeat;
+    background-size: cover;
+    height: auto;
+    border-radius: 25px;
+    background-color: rgb(0, 0, 0);
+}
+.box{
+    width: 550px;
+    background: rgb(255, 253, 253);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: black;
+    border-radius: 25px;
+}
+.box:hover{
+    background-color: rgba(243, 221, 221, 0.842);
+    
+}
+.top{
+    text-align: center;
+
+}
+
+.about{
+    background-color: rgb(224, 238, 238, 0.5);
+    width: 800px;
+    height: 400px;
+    text-align: 103px;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 25px;
+    padding: 40px;
+    margin-top: 5%;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.vejo{
+        background-color: aliceblue;
+        width: 250px;
+        text-align: 103px;
+        margin: auto;
+        padding: 4px;
+        margin-top: 5%;
+        color: rgb(26, 26, 26);
+        border-radius: 25px;
+        text-align: center;
+
+}
+.vanduo{
+    background-color: aliceblue;
+    width: 250px;
+    text-align: 103px;
+    margin: auto;
+    padding: 4px;
+    margin-top: 5%;
+    color: rgb(26, 26, 26);
+    border-radius: 25px;
+    text-align: center;
+
+}
+.container{
+    background-color: rgb(224, 238, 238);
+    width: 700px;
+    height: 300px;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 25px;
+    padding: 40px;
+}
+.container2{
+    float: left;
+    background-color: rgb(224, 238, 238);
+    width: 450px;
+    height: 300px;
+    padding: 20px;
+    margin: 10px;
+    margin-top: 5%;
+    border-radius: 25px;
+}
+.container3{
+    float: right;
+    background-color: rgb(224, 238, 238);
+    width: 450px;
+    height: 300px;
+    margin: 10px;
+    padding: 20px;
+    margin-top: 5%;
+    border-radius: 25px;
+}
+
+.container4{
+    float: right;
+    background-color: rgb(224, 238, 238);
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    padding: 20px;
+    margin-top: 5%;
+    border-radius: 25px;
+    background: url(images/757068893.jpg);
+    background-size: cover;
+    color:aliceblue;
+}
+
+
+.containerW{
+    background-color: rgb(224, 238, 238);
+    width: 700px;
+    height: 300px;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 25px;
+    padding: 40px;
+}
+.containerW2{
+    float: left;
+    background-color: rgb(224, 238, 238);
+    width: 450px;
+    height: 300px;
+    padding: 20px;
+    margin: 10px;
+    margin-top: 5%;
+    border-radius: 25px;
+}
+.containerW3{
+    float: right;
+    background-color: rgb(224, 238, 238);
+    width: 450px;
+    height: 300px;
+    margin: 10px;
+    padding: 20px;
+    margin-top: 5%;
+    border-radius: 25px;
+}
+
+.containerW4{
+    float: right;
+    background-color: rgb(224, 238, 238);
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    padding: 20px;
+    margin-top: 5%;
+    border-radius: 25px;
+    background: url(images/757068893.jpg);
+    background-size: cover;
+    color:aliceblue;
+}
+
+
+
+
+
+
+
+
+.air{
+    height: 100px;
+}
