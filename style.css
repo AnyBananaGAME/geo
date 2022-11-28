@@ -7,6 +7,7 @@ body{
     border-radius: 25px;
     background-color: rgb(0, 0, 0);
 }
+
 .box{
     width: 550px;
     background: rgb(255, 253, 253);
@@ -59,7 +60,7 @@ body{
         width: 250px;
         text-align: 66px;
         margin: auto;
-        padding: 4px;
+        padding: 12px;
         margin-top: 5%;
         color: rgb(26, 26, 26);
         border-radius: 25px;
@@ -162,7 +163,7 @@ body{
     padding: 20px;
     margin-top: 5%;
     border-radius: 25px;
-    background: url(images/757068893.jpg);
+    background: url(images/hha.webp);
     background-size: cover;
     color:aliceblue;
 }
@@ -175,5 +176,5 @@ body{
 
 
 .air{
-    height: 100px;
+    height: 150px;
 }
